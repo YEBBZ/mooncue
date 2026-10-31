@@ -1,0 +1,5 @@
+import {
+  "yebbz/mooncue" @lib,
+}
+
+pkgtype(kind: "executable")
