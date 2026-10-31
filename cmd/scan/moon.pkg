@@ -1,0 +1,7 @@
+import {
+  "yebbz/mooncue" @guard,
+}
+
+pkgtype(kind: "executable")
+
+supported_targets = "-all+js"
